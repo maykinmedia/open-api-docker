@@ -1,0 +1,12 @@
+# Developers
+.hg
+.git
+.svn
+.idea/
+.vscode/
+.sass-cache/
+*.db
+*.pyc
+__pycache__
+*~
+*.mo
